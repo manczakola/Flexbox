@@ -7,3 +7,6 @@ Technologies used:
 <li>Sass</li>
 <li>BEM</li>
 <li>Flexbox</li>
+  
+  
+  ## Check here: https://manczakola.github.io/Flexbox/
